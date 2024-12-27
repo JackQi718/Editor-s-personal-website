@@ -35,6 +35,13 @@ const portfolioItems = [
     thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
     videoUrl: 'https://example.com/video3.mp4',
   },
+    {
+    id: 5,
+    title: '城市印象',
+    category: '短片',
+    thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
+    videoUrl: 'https://example.com/video3.mp4',
+  },
 ];
 
 const Portfolio = () => {
