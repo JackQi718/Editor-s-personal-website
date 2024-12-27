@@ -19,7 +19,7 @@ const portfolioItems = [
     title: '城市印象',
     category: '短片',
     thumbnail: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80',
-    videoUrl: 'https://example.com/video2.mp4',
+    videoUrl: 'https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410211685483.mp4',
   },
   {
     id: 3,
