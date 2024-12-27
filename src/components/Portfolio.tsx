@@ -12,7 +12,7 @@ const portfolioItems = [
     title: '品牌形象片',
     category: '商业广告',
     thumbnail: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&q=80',
-    videoUrl: 'https://example.com/video1.mp4',
+    videoUrl: 'https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410211685483.mp4',
   },
   {
     id: 2,
