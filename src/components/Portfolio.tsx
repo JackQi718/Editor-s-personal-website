@@ -4,40 +4,40 @@ import VideoModal from './portfolio/VideoModal';
 import CategoryFilter from './portfolio/CategoryFilter';
 import { PortfolioItem } from '../types/portfolio';
 
-const categories = ['全部', '商业广告', '短片', '特效设计'];
+const categories = ['全部', '宣传片', '游戏广告', '二维动画', '三维动画'];
 
 const portfolioItems = [
   {
     id: 1,
-    title: '品牌形象片',
+    title: '宣传片',
     category: '商业广告',
     thumbnail: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&q=80',
     videoUrl: 'https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410211685483.mp4',
   },
   {
     id: 2,
-    title: '城市印象',
+    title: '游戏广告',
     category: '短片',
     thumbnail: 'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80',
     videoUrl: 'https://cloud.video.taobao.com//play/u/705956171/p/1/e/6/t/1/410211685483.mp4',
   },
   {
     id: 3,
-    title: '视觉特效展示',
+    title: '二维动画',
     category: '特效设计',
     thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
     videoUrl: 'https://example.com/video3.mp4',
   },
     {
     id: 4,
-    title: '视觉特效展示',
+    title: '三维动画',
     category: '特效设计',
     thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
     videoUrl: 'https://example.com/video3.mp4',
   },
     {
     id: 5,
-    title: '城市印象',
+    title: '游戏广告',
     category: '短片',
     thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
     videoUrl: 'https://example.com/video3.mp4',
