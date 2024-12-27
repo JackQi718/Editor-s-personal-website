@@ -28,6 +28,13 @@ const portfolioItems = [
     thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
     videoUrl: 'https://example.com/video3.mp4',
   },
+    {
+    id: 4,
+    title: '视觉特效展示',
+    category: '特效设计',
+    thumbnail: 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80',
+    videoUrl: 'https://example.com/video3.mp4',
+  },
 ];
 
 const Portfolio = () => {
