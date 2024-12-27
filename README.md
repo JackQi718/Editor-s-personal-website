@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @JackQi718
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 北山个人网站
 
-<!---
-JackQi718/JackQi718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这是一个专为视频剪辑师设计的自适应个人网站，旨在展示服务技能、作品集和联系方式。项目基于 HTML5、CSS3 和 JavaScript 构建，支持多设备访问。
+
+---
+
+## 功能介绍
+
+### 1. 网站结构
+- **首页**  
+  - 网站名称“北山”，包含导航菜单、宣传标语和引导按钮。
+  
+- **关于我**  
+  - 展示个人简介、职业技能以及擅长使用的剪辑工具。
+  
+- **服务**  
+  - 列出视频剪辑服务类型（企业宣传视频、社交媒体短视频等）并附详细描述。
+
+- **作品集**  
+  - 使用 HTML5 视频播放器展示视频作品，支持链接嵌入与动态替换。
+
+- **联系我们**  
+  - 包含联系方式（邮箱、微信）以及留言表单。
+
+### 2. 自适应设计
+- 网站自动适配桌面、平板和手机设备，确保良好的用户体验。
+
+---
+
+## 技术栈
+- **HTML5**：页面结构。
+- **CSS3**：布局与样式设计，包含响应式支持。
+- **JavaScript**：交互效果和动态功能。
+
+---
+
+## 文件结构
+project-directory/ 
+├── index.html # 网站主页 
+├── about.html # 关于我页面 
+├── services.html # 服务页面 
+├── portfolio.html # 作品集页面 
+├── contact.html # 联系我们页面 
+├── assets/ # 静态资源目录 │ 
+├── css/ # 样式文件 │ 
+│ └── styles.css # 主样式文件 │ 
+├── js/ # 脚本文件 │ 
+│ └── scripts.js # 主脚本文件 │ 
+├── images/ # 图片资源 
+│ └── videos/ # 视频资源 
+└── README.md # 项目说明文件
